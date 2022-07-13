@@ -81,8 +81,13 @@ export class DriverComponent implements OnInit {
 
     this.socket.on("delivery_updated", function (deliveryUpdate) {
       if (deliveryUpdate._id) {
+        
         this.deliveryInfo = deliveryUpdate;
       }
     });
+  }
+
+  ngOnDestroy() {
+    this.subscription.unsubscribe()
   }
 }
