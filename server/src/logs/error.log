@@ -1,0 +1,107 @@
+2022-07-07 20:15:26:1526 | error : /api/package | POST | status: 400 | message : Bad request 
+2022-07-07 20:17:23:1723 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 09:20:07:207 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 09:22:56:2256 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 09:23:21:2321 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 09:29:23:2923 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 09:36:07:367 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 09:38:22:3822 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 09:58:37:5837 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 09:59:08:598 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 10:00:10:010 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 10:00:22:022 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 10:02:34:234 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 10:05:55:555 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 10:06:24:624 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 10:07:13:713 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 10:34:03:343 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 10:37:23:3723 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 10:39:37:3937 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 11:06:51:651 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 11:07:56:756 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 11:08:23:823 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Bad request 
+2022-07-08 11:15:23:1523 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : Some fields are invalid 
+2022-07-08 11:32:17:3217 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-08 11:51:42:5142 | error : Ip:::1 | path: /api/package/1 | GET | status: 500 | message : Oops ! An unexpected error occurred. 
+2022-07-08 11:53:48:5348 | error : Ip:::1 | path: /api/package/1 | GET | status: 500 | message : Oops ! An unexpected error occurred. 
+2022-07-08 11:54:20:5420 | error : Ip:::1 | path: /api/package/1 | GET | status: 404 | message : The provided id is not found 
+2022-07-08 11:56:55:5655 | error : Ip:::1 | path: /api/delivery/1 | GET | status: 404 | message : The provided id is not found 
+2022-07-08 12:29:07:297 | error : Ip:::1 | path: /api/delivery | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-08 15:19:59:1959 | error : Ip:::1 | path: /api/delivery | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-08 15:35:52:3552 | error : Ip:::1 | path: /auth | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-08 15:36:22:3622 | error : Ip:::1 | path: /auth | POST | status: 404 | message : INVALID_LOGIN 
+2022-07-08 15:37:10:3710 | error : Ip:::1 | path: /auth | POST | status: 500 | message : Oops ! An unexpected error occurred. 
+2022-07-08 15:38:19:3819 | error : Ip:::1 | path: /auth | POST | status: 500 | message : Oops ! An unexpected error occurred. 
+2022-07-08 15:39:16:3916 | error : Ip:::1 | path: /api/delivery | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-08 15:39:52:3952 | error : Ip:::1 | path: /api/delivery/1 | GET | status: 404 | message : The provided id is not found 
+2022-07-08 15:48:59:4859 | error : Ip:::1 | path: /api/package | GET | status: 403 | message : Access denied 
+2022-07-08 15:58:09:589 | error : Ip:::1 | path: /api/package | POST | status: 500 | message : Oops ! An unexpected error occurred. 
+2022-07-08 15:59:25:5925 | error : Ip:::1 | path: /api/package | POST | status: 500 | message : Oops ! An unexpected error occurred. 
+2022-07-08 16:04:27:427 | error : Ip:::1 | path: /api/package/PK-IWKTGU | GET | status: 404 | message : The provided id is not found 
+2022-07-09 02:22:04:224 | error : Ip:::1 | path: /api/package/PK-DTHERB | GET | status: 404 | message : The provided id is not found 
+2022-07-12 12:30:55:3055 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:33:04:334 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:35:31:3531 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:41:45:4145 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:42:45:4245 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:46:25:4625 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:47:04:474 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:48:25:4825 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:50:11:5011 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:51:29:5129 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:53:31:5331 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:54:05:545 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:55:28:5528 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 12:58:24:5824 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:00:20:020 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:01:34:134 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:03:50:350 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:05:14:514 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:05:30:530 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:05:53:553 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:06:28:628 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:06:52:652 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:08:07:87 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:08:21:821 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:09:11:911 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:10:35:1035 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:10:59:1059 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:11:48:1148 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:12:53:1253 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:16:35:1635 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:18:11:1811 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:18:15:1815 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:20:28:2028 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:20:57:2057 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:22:11:2211 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:26:08:268 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:27:51:2751 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:27:57:2757 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:29:02:292 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 13:30:04:304 | error : Ip:::1 | path: /api/package | OPTIONS | status: 401 | message : MISSING_TOKEN 
+2022-07-12 14:17:07:177 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:27:40:2740 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:30:20:3020 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:32:31:3231 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:34:55:3455 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:35:11:3511 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:35:54:3554 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:37:05:375 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:38:51:3851 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:40:26:4026 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:44:53:4453 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:46:15:4615 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 14:51:51:5151 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 19:12:42:1242 | error : Ip:::1 | path: /api/package | POST | status: 400 | message : VALIDATION_ERROR 
+2022-07-12 22:48:37:4837 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 22:50:16:5016 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 22:50:31:5031 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 22:51:41:5141 | error : Ip:::1 | path: /api/package/PK-WISURZ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 22:53:19:5319 | error : Ip:::1 | path: /api/package/PK-WISURZ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-12 22:56:44:5644 | error : Ip:::1 | path: /api/package/sajkd | GET | status: 404 | message : The provided id is not found 
+2022-07-12 22:58:53:5853 | error : Ip:::1 | path: /api/package/adjka | GET | status: 404 | message : The provided id is not found 
+2022-07-12 22:59:01:591 | error : Ip:::1 | path: /api/package/alshkashj | GET | status: 404 | message : The provided id is not found 
+2022-07-12 23:47:00:470 | error : Ip:::1 | path: /api/delivery/undefined | GET | status: 404 | message : The provided id is not found 
+2022-07-12 23:47:30:4730 | error : Ip:::1 | path: /api/delivery/undefined | GET | status: 404 | message : The provided id is not found 
+2022-07-13 00:13:30:1330 | error : Ip:::1 | path: /api/package/ | GET | status: 401 | message : MISSING_TOKEN 
+2022-07-13 00:14:24:1424 | error : Ip:::1 | path: /api/package/hh | GET | status: 404 | message : The provided id is not found 
